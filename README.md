@@ -9,5 +9,5 @@
  </head>
  <body>
   <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/code.png" align="middle"  height="600" alt="Письма мастера дзен"></p>
-  <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/site1.png" align="middle" height="600" alt="Письма мастера дзен"></p>
+  <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/site1.png" align="middle" height="300" alt="Письма мастера дзен"></p>
  </body>
