@@ -8,7 +8,7 @@
   Код API
  </head>
  <body>
-  <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/code.png" align="center" height="2000" alt="Письма мастера дзен"></p>
+  <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/code.png" align="center" alt="Письма мастера дзен"></p>
  </body>
  
 <head>
