@@ -13,7 +13,7 @@
  
 <head>
   <meta charset="utf-8">
-  Код API
+  Так выглядит сайт
  </head>
  <body>
   <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/site1.png" align="center" alt="Письма мастера дзен"></p>
