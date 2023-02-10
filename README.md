@@ -6,9 +6,11 @@
 <head>
   <meta charset="utf-8">
   Код API
-      <style>
+<style>
+.aligncenter {
     text-align: center;
-  </style>
+}
+</style>
  </head>
  <body>
   <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/code.png" align="center" alt="Письма мастера дзен"></p>
@@ -17,9 +19,11 @@
 <head>
   <meta charset="utf-8">
   Так выглядит сайт
-    <style>
+<style>
+.aligncenter {
     text-align: center;
-  </style>
+}
+</style>
  </head>
  <body>
   <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/site1.png" align="center" alt="Письма мастера дзен"></p>
