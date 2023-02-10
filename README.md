@@ -1,6 +1,6 @@
 <h1/>
 <img src="https://i.pinimg.com/originals/23/2d/82/232d824af9def60ed8e0aa588eb2e4bd.gif" height="50"/
-align="center">Привет, это <a href="https://github.com/TheFl1ppy" target="_blank">Максим</a> 
+>Привет, это <a href="https://github.com/TheFl1ppy" target="_blank">Максим</a> 
 <img src="https://i.pinimg.com/originals/23/2d/82/232d824af9def60ed8e0aa588eb2e4bd.gif" height="50"/>
 </h1>
 
