@@ -3,5 +3,5 @@
 
 <h1 align="center">Это первое задание: <a href="https://github.com/TheFl1ppy/API/tree/main/API1" target="_blank"> API </a> 
 
-  <p> <img src="https://github.com/TheFl1ppy/API1/Assets/blob/main/code.png" align="middle" height="2100" alt="Письма мастера дзен"></p>
-  <p> <img src="https://github.com/TheFl1ppy/API1/Assets/blob/main/site1.png" align="middle" alt="Письма мастера дзен"></p>
+  <p> <img src="https://github.com/TheFl1ppy/API1/API1 Assets/blob/main/code.png" align="middle" height="2100" alt="Письма мастера дзен"></p>
+  <p> <img src="https://github.com/TheFl1ppy/API1/API1 Assets/blob/main/site1.png" align="middle" alt="Письма мастера дзен"></p>
