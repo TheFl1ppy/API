@@ -3,7 +3,7 @@
 
 <h1 align="center">Это первое задание: <a href="https://github.com/TheFl1ppy/API/tree/main/API1" target="_blank"> API </a>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheFl1ppy&repo=API/API1/)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheFl1ppy&repo=https://github.com/TheFl1ppy/API/tree/main/API1)](https://github.com/anuraghazra/github-readme-stats)
 
   <p> <img src="API1Assets/code.png" align="middle" height="2100" alt="Письма мастера дзен"></p>
   <p> <img src="API1Assets/site1.png" align="middle" alt="Письма мастера дзен"></p>
