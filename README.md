@@ -5,7 +5,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Код API</title>
+  Код API
  </head>
  <body>
   <p><img src="https://github.com/TheFl1ppy/Assets/blob/main/code.png" alt="Письма мастера дзен"></p>
