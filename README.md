@@ -7,3 +7,9 @@
 
   <p> <img src="API1Assets/code.png" align="middle" height="2100" alt="Письма мастера дзен"></p>
   <p> <img src="API1Assets/site1.png" align="middle" alt="Письма мастера дзен"></p>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
