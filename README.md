@@ -1,7 +1,7 @@
 <h1 align="center">Привет, это <a href="https://github.com/TheFl1ppy" target="_blank">Максим</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h1 align="center">Это первое <a href="https://github.com/TheFl1ppy/API/tree/main/API1" задание</a> 
+<h1 align="center">Это первое задание: <a href="https://github.com/TheFl1ppy/API/tree/main/API1" задание</a> 
 
 <head>
   <meta charset="utf-8">
