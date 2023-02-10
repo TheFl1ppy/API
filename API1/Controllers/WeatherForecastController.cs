@@ -116,9 +116,23 @@ namespace API1.Controllers
         // Старая часть 
 
         [HttpGet("Все Summaries")]
-        public List<string> Get()
+        public List<string> Get(int? sort)
         {
-            return Summaries;
+            switch (sort)
+            {
+                case "null":
+                    return Summaries.Sort();
+                    break;
+                    
+                case "1":
+                    return Summaries.Sort().Reverse();
+                    break;
+                    
+                case "-1":
+                    return Summaries
+                    break;
+            }
+            return BadRequest("Некорректное значение параметра sort");
         }
 
         [HttpPost("Добваить имя")]
