@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   Код API
       <style>
-    text-align: center; /* Выравнивание по центру */ 
+    text-align: center;
   </style>
  </head>
  <body>
@@ -18,7 +18,7 @@
   <meta charset="utf-8">
   Так выглядит сайт
     <style>
-    text-align: center; /* Выравнивание по центру */ 
+    text-align: center;
   </style>
  </head>
  <body>
