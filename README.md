@@ -9,12 +9,5 @@
  </head>
  <body>
   <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/code.png" align="middle" alt="Письма мастера дзен"></p>
- </body>
- 
-<head>
-  <meta charset="utf-8">
-  Так выглядит сайт
- </head>
- <body>
   <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/site1.png" align="middle" alt="Письма мастера дзен"></p>
  </body>
