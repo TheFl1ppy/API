@@ -12,5 +12,5 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheFl1ppy&repo=API)](https://github.com/TheFl1ppy/API/tree/main/API1.1)
 
-  <p> <img src="API1Assets/code.png" align="middle" height="2100" alt="Картинка пропала, как жаль"></p>
-  <p> <img src="API1Assets/code.png" align="middle" alt="Картинка пропала, как жаль"></p>
+  <p> <img src="API1.1Assets/code.png" align="middle" height="2100" alt="Картинка пропала, как жаль"></p>
+  <p> <img src="API1.1Assets/site.png" align="middle" alt="Картинка пропала, как жаль"></p>
