@@ -10,3 +10,11 @@
  <body>
   <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/code.png" align="center" height="2000" alt="Письма мастера дзен"></p>
  </body>
+ 
+<head>
+  <meta charset="utf-8">
+  Код API
+ </head>
+ <body>
+  <p> <img src="https://github.com/TheFl1ppy/Assets/blob/main/site1.png" align="center" height="2000" alt="Письма мастера дзен"></p>
+ </body>
