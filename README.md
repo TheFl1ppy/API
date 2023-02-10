@@ -1,5 +1,5 @@
 <h1 align="center">Привет, это <a href="https://github.com/TheFl1ppy" target="_blank">Максим</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://gifer.com/ru/gifs/%D0%B3%D1%83%D1%81%D1%8C" height="32"/></h1>
 
 <h1 align="center">Это первое задание: <a href="https://github.com/TheFl1ppy/API/tree/main/API1" target="_blank"> API </a>
   
