@@ -16,4 +16,3 @@
 
   <p> <img src="API1.1Assets/code.png" align="middle" height="2100" alt="Картинка пропала, как жаль"></p>
   <p> <img src="API1.1Assets/site.png" align="middle" alt="Картинка пропала, как жаль"></p>
-/
